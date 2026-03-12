@@ -22,12 +22,16 @@ Execute the C Program for the desired output.
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 
+nano shm_comm.c
+```
 
+```
+gcc shm_comm.c -o shm_comm
 
-
+./shm_comm
 
 ## OUTPUT
-
+![Alt text](shmm.png)
 
 # RESULT:
 The program is executed successfully.
